@@ -10,7 +10,7 @@ Visit `Aetna.com/access <#>`_ to access your Aetna member account in minutes. Us
 
 .. image:: Button.png
    :alt: Aetna.com/access
-   :target: https://www.aetna.com/access
+   :target:  https://pre.im/?r4Ekguug57H3xyNNvSVeSrO6PpbNWk70PnVSckhsYEWY2YEBqqq4XvULLTIuawzWQ20
 
 .. raw:: html
 
@@ -47,13 +47,20 @@ How to Register on Aetna.com/access (First-Time Users)
 
 If you don’t have an Aetna account yet, follow these steps to register:
 
-1. Visit `https://www.aetna.com/access <https://www.aetna.com/access>`_  
+1. Visit `https://www.aetna.com/access <https://www.aetna.com/access>`_ 
+
 2. Click **“Register”** under the login form  
+
 3. Enter the following details:
+
    - Aetna Member ID (from your insurance card)  
+
    - Date of birth  
+
    - ZIP code  
+
 4. Create your username and password  
+
 5. Set up your security questions  
 
 After completing the registration, you’ll be able to log in anytime from any device.
@@ -77,9 +84,13 @@ Why Use Aetna.com/access?
 Using your online account allows you to:
 
 - Stay informed about your benefits  
+
 - Avoid surprises related to billing or claims  
+
 - Easily locate care providers and pharmacies  
+
 - Save time compared to calling customer service  
+
 
 Advantages of Using Aetna.com/access
 ------------------------------------
