@@ -8,7 +8,7 @@ Visit `Aetna.com/access <#>`_ to access your Aetna member account in minutes. Us
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Aetna-Button.png
+.. image:: Button.png
    :alt: Aetna.com/access
    :target: https://www.aetna.com/access
 
